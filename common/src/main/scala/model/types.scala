@@ -1,0 +1,1 @@
+type MapEntry[K <: String, V]
